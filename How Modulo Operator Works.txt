@@ -1,0 +1,10 @@
+I. Modulo Operator:
+
+0. hi I am Leo, I'll explain here how Modulo Operator works.
+1. Modulo Operator is denoted by % in computer programming languages.
+2. Let's discuss and understand how Modulo Operator works.
+3. I will use python to explain various scenarios with examples.
+4. let's jump into it
+5. Example X % Y ≡ R; ≡ means identical to.
+6. In Modulo Operator method. A value cannot be negative integer.
+7. Most of the result depreciates towards 0.
