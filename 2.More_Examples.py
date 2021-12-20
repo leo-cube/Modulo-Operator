@@ -21,7 +21,7 @@ print(x % y)
 x = 85
 y = 4
 # (x-ny)
-xy = 85 -1
+xy = 85 -4
 ans = 81 # now this 81 has to depreciate, lets do that with simple while state with if condition.
 
 while ans <= 81:
